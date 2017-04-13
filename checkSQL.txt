@@ -1,0 +1,12 @@
+include/logged_out_content.php				ok
+include/tools.php						ok
+include/baseTheme.php					ok
+include/init.php						ok
+include/lib/fileDisplayLib.inc.php 			??? (onoma arxeiwn me entoli sql???)
+include/lib/fileManageLib.inc.php				ok
+include/lib/learnPathLib.inc.php 				? me mikres amfivolies
+include/lib/main.lib.php   thelei allages se kathe sqlQuery poy pairnei, ?? gia seira 582, 612, 617, 812!!!, 1259?, (sqlQueies: 41, 59, 79, 94, 125, 1149??)
+index.php							ok
+
+
+

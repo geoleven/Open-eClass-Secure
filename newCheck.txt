@@ -1,0 +1,17 @@
+/modules/conference/*
+/modules/contact/*
+/modules/course_home/*
+/modules/course_info/*
+/modules/course_tools/*
+/modules/create_course_db.php
+/modules/create_course.php
+/modules/dropbox/*
+/modules/forum_admin/*
+/modules/help/*
+/modules/import/*
+/modules/index/*
+/modules/lang/*
+/modules/latexrender/*
+/modules/perso/* 
+/modules/phpbb/viewtopic.php
+
